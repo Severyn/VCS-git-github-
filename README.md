@@ -6,4 +6,4 @@ https://github.com/Severyn/welcome-to-github
 
 
 Task 3
-<img src="https://drive.google.com/open?id=0B6IOzX--kkb_aE5LeVI2R0QzYUk">
+https://drive.google.com/open?id=0B6IOzX--kkb_aE5LeVI2R0QzYUk
