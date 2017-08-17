@@ -12,16 +12,16 @@
     <img src="https://lh6.googleusercontent.com/-68qHFCQrMjJLDFXpG6X2QdFzUo3HcVn-cSYTjQIIXPIEnweR2vTZqSin6NbueV5KIhlnX_A_KyJzo0=w1366-h638-rw">
 
 <h2>Task5</h2>
-<a href="https://github.com/Severyn/hello-world-github"></a>
+<a href="https://github.com/Severyn/hello-world-github">https://github.com/Severyn/hello-world-github</a>
 
 <h2>Task6</h2>
 
 <img src="https://lh5.googleusercontent.com/NcBuKjr7vzSLb9atq3Z5tDGeb2qww1Vk98Vsg-XOjLQmzRFjR53sO1w-qxO9LsGPg2IE1A-NDkuSYmw=w1366-h638-rw">
 
 <h2>Task7</h2>
-<a href="https://github.com/Severyn/hello-world-git"></a>
+<a href="https://github.com/Severyn/hello-world-git">https://github.com/Severyn/hello-world-git</a>
 
 <h2>Task8</h2>
-<a href="https://severyn.github.io/testing-the-github-pages/"></a>
-<a href="https://github.com/Severyn/testing-the-github-pages"></a>
+<a href="https://severyn.github.io/testing-the-github-pages/">https://severyn.github.io/testing-the-github-pages/</a>
+<a href="https://github.com/Severyn/testing-the-github-pages">https://github.com/Severyn/testing-the-github-pages</a>
 <img src="https://lh6.googleusercontent.com/EW-J5-IkweLJpvaIszhctH9mPetlVjhUHat9oKH7RZIQTPAI74K9vYqtqynlGUkSiO7TmprbR4xLU2I=w1366-h638-rw">
