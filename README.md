@@ -1,7 +1,7 @@
 Task 1 
-<a href="https://github.com/Severyn"></a>
+https://github.com/Severyn
 Task 2 
-<a href="https://github.com/Severyn/welcome-to-github"></a>
+https://github.com/Severyn/welcome-to-github
 
 
 Task 3
