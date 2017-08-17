@@ -23,5 +23,6 @@
 
 <h2>Task8</h2>
 <a href="https://severyn.github.io/testing-the-github-pages/">https://severyn.github.io/testing-the-github-pages/</a>
-<a href="https://github.com/Severyn/testing-the-github-pages">https://github.com/Severyn/testing-the-github-pages</a>
+<p>
+<a href="https://github.com/Severyn/testing-the-github-pages">https://github.com/Severyn/testing-the-github-pages</a></p>
 <img src="https://lh6.googleusercontent.com/EW-J5-IkweLJpvaIszhctH9mPetlVjhUHat9oKH7RZIQTPAI74K9vYqtqynlGUkSiO7TmprbR4xLU2I=w1366-h638-rw">
