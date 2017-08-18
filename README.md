@@ -1,8 +1,8 @@
 ## Task 1 
-    https://github.com/Severyn
+   https://github.com/Severyn
 
 ## Task 2 
-    https://github.com/Severyn/welcome-to-github
+   https://github.com/Severyn/welcome-to-github
 
 ## Task 3
 
@@ -19,7 +19,7 @@ https://github.com/Severyn/hello-world-github
 ![](https://github.com/Severyn/VCS-git-github-/blob/master/13.PNG?raw=true)
 
 ## Task7
-<a href="https://github.com/Severyn/hello-world-git">https://github.com/Severyn/hello-world-git</a>
+https://github.com/Severyn/hello-world-git
 
 ## Task8
 https://severyn.github.io/testing-the-github-pages/">https://severyn.github.io/testing-the-github-pages/
