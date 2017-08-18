@@ -6,7 +6,7 @@
 
 <h2>Task 3</h2>
 
-<img src="https://lh3.googleusercontent.com/moVkOJugrdqpTrF831pdsb3pqUdNV_v__H8K1nyifb29ZvHurfZZ4FrnSFcGBlx2GXTsCY4S8fHlQ6E=w1366-h638-rw">
+![](https://github.com/Severyn/VCS-git-github-/blob/master/515.PNG?raw=true)
     <h2>Task 4</h2>
     <img src="https://lh3.googleusercontent.com/ObgQeQYgbLOCwgwBogLXy2vFmH0aUaPIgtlfb4_e2V0bxeX_9IwpZdfHZCBmQG1ZmlIzsDdKUTlYzhY=w1366-h638-rw">
     <img src="https://lh6.googleusercontent.com/c1h_VI6L8lTAkZOqma_xNxkMuwvH_brHVZ7JU9Gmi7IVOnPHEua1HEP-Ot_w9gPri-BG4JZ3OIHAyv0=w1366-h638-rw">
