@@ -25,4 +25,4 @@ https://github.com/Severyn/hello-world-git
 https://severyn.github.io/testing-the-github-pages/">https://severyn.github.io/testing-the-github-pages/
 
 https://github.com/Severyn/testing-the-github-pages">https://github.com/Severyn/testing-the-github-pages
-![]https://github.com/Severyn/VCS-git-github-/blob/master/14.PNG?raw=true)
+![](https://github.com/Severyn/VCS-git-github-/blob/master/14.PNG?raw=true)
