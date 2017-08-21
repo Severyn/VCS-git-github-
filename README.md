@@ -22,7 +22,9 @@ https://github.com/Severyn/hello-world-github
 https://github.com/Severyn/hello-world-git
 
 ## Task8
-https://severyn.github.io/testing-the-github-pages/">https://severyn.github.io/testing-the-github-pages/
+https://severyn.github.io/testing-the-github-pages/"
+https://severyn.github.io/testing-the-github-pages/
 
-https://github.com/Severyn/testing-the-github-pages">https://github.com/Severyn/testing-the-github-pages
+https://github.com/Severyn/testing-the-github-pages"
+https://github.com/Severyn/testing-the-github-pages
 ![](https://github.com/Severyn/VCS-git-github-/blob/master/14.PNG?raw=true)
